@@ -1,0 +1,26 @@
+phrase:      Ⱑⱂⱁⰿⱀⱓⱍⱆⰴⱀⱁⰵⰿⰳⱀⱁⰲⰵⱀⱐⰵ
+detected:    Ⱑⱂⱁⰿⱀⱓⱍⱆⰴⱀⱁⰵⰿⰳⱀⱁⰲⰵⱀⱐⰵ
+correct:     100%
+
+original | detected | is_correct
+Ⱑ	Ⱑ	True
+ⱂ	ⱂ	True
+ⱁ	ⱁ	True
+ⰿ	ⰿ	True
+ⱀ	ⱀ	True
+ⱓ	ⱓ	True
+ⱍ	ⱍ	True
+ⱆ	ⱆ	True
+ⰴ	ⰴ	True
+ⱀ	ⱀ	True
+ⱁ	ⱁ	True
+ⰵ	ⰵ	True
+ⰿ	ⰿ	True
+ⰳ	ⰳ	True
+ⱀ	ⱀ	True
+ⱁ	ⱁ	True
+ⰲ	ⰲ	True
+ⰵ	ⰵ	True
+ⱀ	ⱀ	True
+ⱐ	ⱐ	True
+ⰵ	ⰵ	True

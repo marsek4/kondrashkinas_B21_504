@@ -1,0 +1,12 @@
+AA:
+	Max frequency: 11025.0
+	Min frequency: 0.0
+	The most timbre-colored fundamental tone: 314. This is the frequency for which the largest number of overtones can be traced
+EE:
+	Max frequency: 11025.0
+	Min frequency: 0.0
+	The most timbre-colored fundamental tone: 254. This is the frequency for which the largest number of overtones can be traced
+tarzan:
+	Max frequency: 11025.0
+	Min frequency: 0.0
+	The most timbre-colored fundamental tone: 200. This is the frequency for which the largest number of overtones can be traced
